@@ -1,0 +1,3 @@
+[submodule "modularity_aware_gae"]
+	path = modularity_aware_gae
+	url = https://github.com/s-mahabadi/modularity_aware_gae.git
